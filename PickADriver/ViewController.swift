@@ -7,7 +7,9 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class ViewController: UIViewController
+{
+    var names = ["Felix", "Felixa","Felixi","Felixe", "Felixo",]
 
     override func viewDidLoad() {
         super.viewDidLoad()
